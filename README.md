@@ -1,4 +1,4 @@
-# Shopping Trend Analysis Dashboard
+# Market Trends: Analyzing Consumer Shopping Patterns
 
 ## Dashboard Link:https://app.powerbi.com/groups/me/reports/0d4a1c8b-0c0a-47c2-aad7-c6503035b83d/46ab50d8747430a3067d?experience=power-bi
 
